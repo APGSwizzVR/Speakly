@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "Greetings",
+    "level": "A1",
+    "description": "Learn basic French greetings and introductions.",
+    "category": "Basics",
+    "xp": 50,
+    "content": [
+      {
+        "french": "Bonjour",
+        "english": "Hello",
+        "pronunciation": "bon-zhoor"
+      },
+      {
+        "french": "Salut",
+        "english": "Hi",
+        "pronunciation": "sa-loo"
+      },
+      {
+        "french": "Au revoir",
+        "english": "Goodbye",
+        "pronunciation": "oh ruh-vwar"
+      },
+      {
+        "french": "Merci",
+        "english": "Thank you",
+        "pronunciation": "mehr-see"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Introducing Yourself",
+    "level": "A1",
+    "description": "Learn how to introduce yourself in French.",
+    "category": "Conversation",
+    "xp": 75,
+    "content": [
+      {
+        "french": "Je m'appelle...",
+        "english": "My name is...",
+        "pronunciation": "zhuh mah-pell"
+      },
+      {
+        "french": "Comment tu t'appelles ?",
+        "english": "What is your name?",
+        "pronunciation": "koh-mahn too tah-pell"
+      },
+      {
+        "french": "Enchanté",
+        "english": "Nice to meet you",
+        "pronunciation": "ahn-shahn-tay"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Numbers",
+    "level": "A1",
+    "description": "Learn numbers from 1 to 20.",
+    "category": "Vocabulary",
+    "xp": 50,
+    "content": [
+      {
+        "french": "Un",
+        "english": "One",
+        "pronunciation": "uhn"
+      },
+      {
+        "french": "Deux",
+        "english": "Two",
+        "pronunciation": "duh"
+      },
+      {
+        "french": "Trois",
+        "english": "Three",
+        "pronunciation": "trwah"
+      }
+    ]
+  }
+]

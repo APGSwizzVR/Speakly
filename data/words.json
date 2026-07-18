@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "french": "chat",
+    "english": "cat",
+    "category": "Animals",
+    "level": "A1"
+  },
+
+  {
+    "id": 2,
+    "french": "chien",
+    "english": "dog",
+    "category": "Animals",
+    "level": "A1"
+  },
+
+  {
+    "id": 3,
+    "french": "maison",
+    "english": "house",
+    "category": "Places",
+    "level": "A1"
+  },
+
+  {
+    "id": 4,
+    "french": "école",
+    "english": "school",
+    "category": "Places",
+    "level": "A1"
+  },
+
+  {
+    "id": 5,
+    "french": "voiture",
+    "english": "car",
+    "category": "Transport",
+    "level": "A1"
+  },
+
+  {
+    "id": 6,
+    "french": "avion",
+    "english": "airplane",
+    "category": "Transport",
+    "level": "A1"
+  },
+
+  {
+    "id": 7,
+    "french": "aéroport",
+    "english": "airport",
+    "category": "Travel",
+    "level": "A1"
+  },
+
+  {
+    "id": 8,
+    "french": "bonjour",
+    "english": "hello",
+    "category": "Greetings",
+    "level": "A1"
+  }
+]

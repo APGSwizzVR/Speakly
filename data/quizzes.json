@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "lesson": "Greetings",
+    "questions": [
+      {
+        "question": "What does 'Bonjour' mean?",
+        "options": [
+          "Goodbye",
+          "Hello",
+          "Thank you",
+          "Please"
+        ],
+        "answer": "Hello"
+      },
+
+      {
+        "question": "What does 'Merci' mean?",
+        "options": [
+          "Sorry",
+          "Hello",
+          "Thank you",
+          "Yes"
+        ],
+        "answer": "Thank you"
+      }
+    ]
+  },
+
+
+  {
+    "id": 2,
+    "lesson": "Numbers",
+
+    "questions": [
+      {
+        "question": "What number is 'Deux'?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": "2"
+      },
+
+      {
+        "question": "What number is 'Trois'?",
+        "options": [
+          "2",
+          "3",
+          "5",
+          "10"
+        ],
+        "answer": "3"
+      }
+    ]
+  }
+]
